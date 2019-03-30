@@ -8,7 +8,6 @@ using SpockGame;
 
 namespace SpockGameTests
 {
-
    [TestFixture]
     public class GameTests
     {

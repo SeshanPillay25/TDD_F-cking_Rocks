@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 namespace SpockGame
 {
+    //Yes, this is a reference to big bang theory
     public class Game
     {
         public PlayResult DoPlay(Play first, Play second)
