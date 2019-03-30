@@ -1,0 +1,16 @@
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\nunit.engine.dll
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\nunit.engine.api.dll
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\SpockGameTests.dll
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\SpockGameTests.pdb
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\nunit.framework.dll
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\SpockGame.dll
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\SpockGame.pdb
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\nunit.framework.pdb
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\bin\Debug\nunit.framework.xml
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\obj\Debug\SpockGameTests.csprojAssemblyReference.cache
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\obj\Debug\SpockGameTests.csproj.CoreCompileInputs.cache
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\obj\Debug\SpockGameTests.csproj.CopyComplete
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\obj\Debug\SpockGameTests.dll
+C:\Users\Sheshan.Pillay\Documents\TddRocks-master\SpockGame\SpockGameTests\obj\Debug\SpockGameTests.pdb
